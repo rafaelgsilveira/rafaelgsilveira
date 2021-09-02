@@ -1,6 +1,6 @@
 # Hi, I’m Rafael Silveira
 - 👀 I’m interested in everything related to technology
-- 🌱 I’m currently getting my Mater's degree and studying Artificcial Intelligence (AI) and Quantitative Structure-Activity Relationship (QSAR) 
+- 🌱 I’m currently getting my Master's degree and studying Artificcial Intelligence (AI) and Quantitative Structure-Activity Relationship (QSAR) 
 - 💞️ I’m looking to collaborate on anything that has the ultimate goal to help people.
 - 📫 You can reach me @ github@ragasil.com.br
 
